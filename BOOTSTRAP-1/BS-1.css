@@ -1,0 +1,17 @@
+.top-bg{
+    background-image: url("A2-images/meet.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.top-nav-bg-opacity{
+    background: rgba(0, 0, 0, 0.5);
+}
+.container-team{
+    background: rgb(87, 72, 72);
+}
+.container-contact{
+    background-image: url("A2-images/meet.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
